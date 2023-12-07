@@ -1,0 +1,7 @@
+{
+  "S3DataSource": {
+    "S3Uri": "",
+    "S3DataType": "S3Prefix",
+    "CompressionType": "None"
+  }
+}

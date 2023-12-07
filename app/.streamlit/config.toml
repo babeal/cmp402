@@ -1,0 +1,9 @@
+[server]
+port = 8080
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base="dark"
+primaryColor="#FF9900"

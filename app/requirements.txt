@@ -1,0 +1,6 @@
+boto3
+streamlit
+streamlit-chat
+langchain==0.0.317
+opensearch-py==2.3.2
+watchdog
